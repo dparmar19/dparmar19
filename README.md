@@ -1,7 +1,7 @@
 # Hey there! I'm **Deep Parmar** 👩‍💻
 
 🌍 **Open to Relocation** | 📞 **Phone**: (607) 313-9121 | 📧 **Email**: [dparmar@binghamton.edu](mailto:dparmar@binghamton.edu)  
-🔗 **LinkedIn**: [Deep Parmar](https://www.linkedin.com/in/deepparmar) | **GitHub**: [Deep Parmar](https://github.com/DeepParmar)  
+🔗 **LinkedIn**: [Deep Parmar](https://www.linkedin.com/in/deepparmar1905/) | **GitHub**: [Deep Parmar](https://github.com/dparmar19)  
 📍 **Currently Based in**: Binghamton, NY, USA | **Looking for Opportunities**!
 
 ## ✨ About Me
@@ -49,17 +49,17 @@ I’m open to opportunities in software development, AI, and cloud-based roles. 
 
 ## 🚀 Featured Projects
 
-### [**Barter Exchange Platform**](https://github.com/DeepParmar/Barter-Exchange-Platform)  
+### [**Barter Exchange Platform**](https://thebartershopbeta.com/)  
 🔄 A **peer-to-peer bartering platform** that matches users with relevant trade opportunities for seamless exchanges.  
 - **Tech**: Node.js, TypeScript, React, AWS  
 - **Key Impact**: Increased user engagement by 30% through AI-driven recommendations and optimized platform performance by reducing load times by 40%.
 
-### [**SFIT College Website**](https://github.com/DeepParmar/SFIT-College-Website)  
+### [**SFIT College Website**](https://ubiquitous-figolla-e28d4f.netlify.app/)  
 🎓 A student portal that centralizes academic resources, campus news, and event updates for **SFIT College**.  
 - **Tech**: React, Tailwind CSS, Node.js, MongoDB  
 - **Key Impact**: Boosted student engagement by 35% and increased website traffic by 40%.
 
-### [**Sparks Foundation Donation Portal**](https://github.com/DeepParmar/Sparks-Foundation-Donation-Portal)  
+### [**Sparks Foundation Donation Portal**](https://quiet-semifreddo-144436.netlify.app/)  
 💸 A donation platform for **Sparks Foundation** that simplifies the donation process, tracks contributions, and sends receipts.  
 - **Tech**: Vue.js, Express.js, PostgreSQL, Razorpay  
 - **Key Impact**: Boosted donations by 30% and enhanced user experience with instant email receipts.
@@ -80,23 +80,10 @@ I’m open to opportunities in software development, AI, and cloud-based roles. 
 
 ---
 
-## 🎓 Education
-
-### **Master of Science in Computer Science** | **Binghamton University**  
-*August 2023 – May 2025*  
-- Relevant Coursework: **Operating Systems**, **Design Patterns**, **Machine Learning**, **System Programming**
-
-### **Bachelor of Science in Information Technology** | **St. Francis Institute of Technology**  
-*August 2019 – May 2023*  
-- Relevant Coursework: **Artificial Intelligence**, **Big Data Analytics**, **Cloud Computing**
-
----
-
 ## 🏆 Certifications & Achievements
 
-- **AWS Certified Solutions Architect – Associate**  
-- **Lean Six Sigma White Belt – Foundational**  
-- **Treasurer**, Indian Graduate Student Organization, Binghamton University  
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/257117a1-d866-4dc2-b1e0-1bf8610c0675/public_url)**
+- **[Lean Six Sigma White Belt – Foundational](https://www.credly.com/badges/c20796aa-fa46-4ec1-b0bb-0352578c95d6/linked_in_profile)**  
 
 ---
 
@@ -113,7 +100,7 @@ I’m open to opportunities in software development, AI, and cloud-based roles. 
 I’m always open to discussing new opportunities and collaborating on interesting projects. If you’re looking for someone with a strong technical background and a passion for solving complex problems, **let’s connect**!
 
 📧 **Email**: [dparmar@binghamton.edu](mailto:dparmar@binghamton.edu)  
-🔗 **LinkedIn**: [Deep Parmar](https://www.linkedin.com/in/deepparmar)
+🔗 **LinkedIn**: [Deep Parmar](https://www.linkedin.com/in/deepparmar1905/)
 
 ---
 
