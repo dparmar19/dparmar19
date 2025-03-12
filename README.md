@@ -37,16 +37,6 @@ I’m open to opportunities in software development, AI, and cloud-based roles. 
 
 ---
 
-## 📊 GitHub Stats
-
-![Deep Parmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepParmar&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepParmar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Deep Parmar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepParmar&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🚀 Featured Projects
 
 ### [**Barter Exchange Platform**](https://thebartershopbeta.com/)  
@@ -104,7 +94,7 @@ I’m always open to discussing new opportunities and collaborating on interesti
 
 ---
 
-> **"The best way to predict the future is to create it." – Abraham Lincoln**
+**"The best way to predict the future is to create it." – Abraham Lincoln**
 
 ---
 
